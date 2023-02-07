@@ -2,6 +2,13 @@
 /venv/
 /pycache/
 
+
+# Ignore All (xlsx) files
+*.xlsx
+
+# DO-NOT ignore specific file
+!DBB/Tool Input.xlsx
+
 # pyenv
 .python-version
 

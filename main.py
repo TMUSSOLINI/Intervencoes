@@ -1,4 +1,4 @@
-from rodoviaList import rodovias
+from validItems import rodovias
 
 sp = "SP 008"
 
