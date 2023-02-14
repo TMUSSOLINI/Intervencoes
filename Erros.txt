@@ -1,95 +1,59 @@
+Na planilha: L01 o lote esta errado! | o lote: 2 nao existe!
+Na planilha: L01 a rodovia esta errada! | a rodovia: SP 001 nao existe!
+Na planilha: L01 o sentido esta errado! | o sentido: Z não existe!
 Na planilha: L01, na coluna EMPRESA RESPONSÁVEL, existem 2 campos vazios!
-Na planilha: L22, na coluna RESPONSÁVEL TÉCNICO PELA OPERAÇÃO VIÁRIA, existem 83 campos vazios!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L28, na coluna EMPRESA RESPONSÁVEL, existem 189 campos vazios!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L30, na coluna RESPONSÁVEL TÉCNICO PELA OPERAÇÃO VIÁRIA, existem 24 campos vazios!
+Na planilha: L01, na coluna NÍVEL DE SERVIÇO C/ INTERVENÇÃO, existem 3 campos vazios!
+Na planilha: L03 a rodovia esta errada! | a rodovia: SP 000 nao existe!
+Na planilha: L03 | Erro de KM, O KM 000.000 esta com .
+Na planilha: L03 a coordenada esta errada! | esta com , no valor: -21,3910890
+Na planilha: L03 o sentido esta errado! | o sentido: x não existe!
+Na planilha: L03, na coluna NÍVEL DE SERVIÇO C/ INTERVENÇÃO, existem 1 campos vazios!
+Na planilha: L01 o lote esta errado! | o lote: 2 nao existe!
+Na planilha: L01 a rodovia esta errada! | a rodovia: SP 001 nao existe!
+Na planilha: L01 o sentido esta errado! | o sentido: Z não existe!
 Na planilha: L01, na coluna EMPRESA RESPONSÁVEL, existem 2 campos vazios!
-Na planilha: L22, na coluna RESPONSÁVEL TÉCNICO PELA OPERAÇÃO VIÁRIA, existem 83 campos vazios!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L28, na coluna EMPRESA RESPONSÁVEL, existem 189 campos vazios!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L30, na coluna RESPONSÁVEL TÉCNICO PELA OPERAÇÃO VIÁRIA, existem 24 campos vazios!
+Na planilha: L01, na coluna NÍVEL DE SERVIÇO C/ INTERVENÇÃO, existem 3 campos vazios!
+Na planilha: L03 a rodovia esta errada! | a rodovia: SP 000 nao existe!
+Na planilha: L03 | Erro de KM, O KM 000.000 esta com .
+Na planilha: L03 a coordenada esta errada! | esta com , no valor: -21,3910890
+Na planilha: L03 o sentido esta errado! | o sentido: x não existe!
+Na planilha: L03, na coluna NÍVEL DE SERVIÇO C/ INTERVENÇÃO, existem 1 campos vazios!
+Na planilha: L01 o lote esta errado! | o lote: 2 nao existe!
+Na planilha: L01 a rodovia esta errada! | a rodovia: SP 001 nao existe!
+Na planilha: L01 o sentido esta errado! | o sentido: Z não existe!
 Na planilha: L01, na coluna EMPRESA RESPONSÁVEL, existem 2 campos vazios!
-Na planilha: L22, na coluna RESPONSÁVEL TÉCNICO PELA OPERAÇÃO VIÁRIA, existem 83 campos vazios!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L25 o municipio esta errado! | o municipio: cidade tiradentes nao e do estado de Sao Paulo!
-Na planilha: L28, na coluna EMPRESA RESPONSÁVEL, existem 189 campos vazios!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
-Na planilha: L28 o municipio esta errado! | o municipio: s. joaquim da barra nao e do estado de Sao Paulo!
+Na planilha: L01, na coluna NÍVEL DE SERVIÇO C/ INTERVENÇÃO, existem 3 campos vazios!
+Na planilha: L03 a rodovia esta errada! | a rodovia: SP 000 nao existe!
+Na planilha: L03 | Erro de KM, O KM 000.000 esta com .
+Na planilha: L03 a coordenada esta errada! | esta com , no valor: -21,3910890
+Na planilha: L03 o sentido esta errado! | o sentido: x não existe!
+Na planilha: L03, na coluna NÍVEL DE SERVIÇO C/ INTERVENÇÃO, existem 1 campos vazios!
+Na planilha: L01 o lote esta errado! | o lote: 2 nao existe!
+Na planilha: L01 a rodovia esta errada! | a rodovia: SP 001 nao existe!
+Na planilha: L01 o sentido esta errado! | o sentido: Z não existe!
+Na planilha: L01, na coluna EMPRESA RESPONSÁVEL, existem 2 campos vazios!
+Na planilha: L01, na coluna NÍVEL DE SERVIÇO C/ INTERVENÇÃO, existem 3 campos vazios!
+Na planilha: L03 a rodovia esta errada! | a rodovia: SP 000 nao existe!
+Na planilha: L03 | Erro de KM, O KM 000.000 esta com .
+Na planilha: L03 a coordenada esta errada! | esta com , no valor: -21,3910890
+Na planilha: L03 o sentido esta errado! | o sentido: x não existe!
+Na planilha: L03, na coluna NÍVEL DE SERVIÇO C/ INTERVENÇÃO, existem 1 campos vazios!
+Na planilha: L01 o lote esta errado! | o lote: 2 nao existe!
+Na planilha: L01 a rodovia esta errada! | a rodovia: SP 001 nao existe!
+Na planilha: L01 o sentido esta errado! | o sentido: Z não existe!
+Na planilha: L01, na coluna EMPRESA RESPONSÁVEL, existem 2 campos vazios!
+Na planilha: L01, na coluna NÍVEL DE SERVIÇO C/ INTERVENÇÃO, existem 3 campos vazios!
+Na planilha: L03 a rodovia esta errada! | a rodovia: SP 000 nao existe!
+Na planilha: L03 | Erro de KM, O KM 000.000 esta com .
+Na planilha: L03 a coordenada esta errada! | esta com , no valor: -21,3910890
+Na planilha: L03 o sentido esta errado! | o sentido: x não existe!
+Na planilha: L03, na coluna NÍVEL DE SERVIÇO C/ INTERVENÇÃO, existem 1 campos vazios!
+Na planilha: L01 o lote esta errado! | o lote: 2 nao existe!
+Na planilha: L01 a rodovia esta errada! | a rodovia: SP 001 nao existe!
+Na planilha: L01 o sentido esta errado! | o sentido: Z não existe!
+Na planilha: L01, na coluna EMPRESA RESPONSÁVEL, existem 2 campos vazios!
+Na planilha: L01, na coluna NÍVEL DE SERVIÇO C/ INTERVENÇÃO, existem 3 campos vazios!
+Na planilha: L03 a rodovia esta errada! | a rodovia: SP 000 nao existe!
+Na planilha: L03 | Erro de KM, O KM 000.000 esta com .
+Na planilha: L03 a coordenada esta errada! | esta com , no valor: -21,3910890
+Na planilha: L03 o sentido esta errado! | o sentido: x não existe!
